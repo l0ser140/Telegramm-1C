@@ -1,0 +1,5 @@
+services:
+  telegramm-1c:
+    image: ghcr.io/apushkarevgpt1978-png/telegramm-1c:latest
+    env_file:
+      - .env
